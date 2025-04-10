@@ -1,4 +1,4 @@
 # git-demo
 Learning Git
 <br>
-Author-VT
+Author-Vidhi Teotia
